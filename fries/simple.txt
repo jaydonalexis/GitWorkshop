@@ -4,4 +4,8 @@ cheese
 bacon
 pepper
 salt
+<<<<<<< HEAD
 avocado
+=======
+chili
+>>>>>>> dcb16db7e1111f6d41a0ac7aa25590ae979b1982
