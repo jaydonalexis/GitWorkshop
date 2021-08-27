@@ -1,3 +1,5 @@
 potato
 oil
 cheese
+bacon
+pepper
