@@ -3,3 +3,4 @@ oil
 cheese
 bacon
 pepper
+salt
