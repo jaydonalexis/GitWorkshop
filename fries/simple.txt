@@ -4,4 +4,3 @@ cheese
 bacon
 pepper
 salt
-chili
